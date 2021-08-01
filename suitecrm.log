@@ -1,0 +1,219 @@
+و 17:56:40 ت 24 جولائی 2021 [53890][-none-][FATAL] Could not connect to DB server localhost as asimbluemoon. port : Access denied for user 'asimbluemoon'@'localhost' (using password: YES)
+و 17:58:31 ت 24 جولائی 2021 [53080][-none-][FATAL] User update error: Temp User is not retrieved at ID 1, boolean given
+و 17:58:31 ت 24 جولائی 2021 [53080][-none-][FATAL] Email address save error
+و 18:28:38 ت 24 جولائی 2021 [53690][1][FATAL] Email address save error
+و 18:30:37 ت 24 جولائی 2021 [53079][1][FATAL] Email address save error
+و 18:30:45 ت 24 جولائی 2021 [53083][1][FATAL] Email address save error
+و 18:36:07 ت 24 جولائی 2021 [54131][1][FATAL] Email address save error
+و 18:36:22 ت 24 جولائی 2021 [53082][1][FATAL] Email address save error
+و 18:40:06 ت 24 جولائی 2021 [53082][1][FATAL] Email address save error
+و 18:52:06 ت 24 جولائی 2021 [53082][1][FATAL] Email address save error
+و 18:52:56 ت 24 جولائی 2021 [54130][1][FATAL] Email address save error
+و 10:46:54 ت 25 جولائی 2021 [4622][1][FATAL] Email address save error
+و 10:51:38 ت 25 جولائی 2021 [4638][1][FATAL] Email address save error
+و 10:51:45 ت 25 جولائی 2021 [4638][1][FATAL] Email address save error
+و 10:53:39 ت 25 جولائی 2021 [5320][1][FATAL] Email address save error
+و 10:53:48 ت 25 جولائی 2021 [5320][1][FATAL] Email address save error
+و 11:20:07 ت 25 جولائی 2021 [3430][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:465 - styleChecked is not set
+و 11:20:35 ت 25 جولائی 2021 [4532][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:465 - styleChecked is not set
+و 11:21:25 ت 25 جولائی 2021 [4638][1][FATAL] Email address save error
+و 11:22:18 ت 25 جولائی 2021 [4622][1][FATAL] Email address save error
+و 12:20:21 ت 25 جولائی 2021 [2874][1][FATAL] Email address save error
+و 12:50:26 ت 25 جولائی 2021 [75732][1][FATAL] Email address save error
+و 13:03:51 ت 25 جولائی 2021 [3153][1][FATAL] Email address save error
+و 08:03:00 ت 26 جولائی 2021 [6722][1][FATAL] Email address save error
+و 08:03:08 ت 26 جولائی 2021 [6196][1][FATAL] Email address save error
+و 08:36:02 ت 26 جولائی 2021 [6864][1][FATAL] Email address save error
+و 08:54:59 ت 26 جولائی 2021 [6544][1][FATAL] Email address save error
+و 11:41:22 ت 26 جولائی 2021 [4638][1][FATAL] Email address save error
+و 11:52:33 ت 26 جولائی 2021 [4916][1][FATAL] Email address save error
+و 12:10:58 ت 26 جولائی 2021 [4920][1][FATAL] Email address save error
+و 08:20:00 ت 27 جولائی 2021 [3082][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 08:20:00 ت 27 جولائی 2021 [3082][1][FATAL] Exception in Controller: There is no action by that name: orderedit
+و 18:31:42 ت 27 جولائی 2021 [5292][1][FATAL] Failed to load original or custom subpanel data for wh_store_wh_supplychain in modules/wh_SupplyChain/metadata/subpanels/ForStore.php
+و 18:31:42 ت 27 جولائی 2021 [5292][1][FATAL] Failed to load original or custom subpanel data for wh_store_wh_supplychain in modules/wh_SupplyChain/metadata/subpanels/ForStore.php
+و 18:31:48 ت 27 جولائی 2021 [7224][1][FATAL] Failed to load original or custom subpanel data for wh_store_wh_supplychain in modules/wh_SupplyChain/metadata/subpanels/ForStore.php
+و 18:31:48 ت 27 جولائی 2021 [7224][1][FATAL] Failed to load original or custom subpanel data for wh_store_wh_supplychain in modules/wh_SupplyChain/metadata/subpanels/ForStore.php
+و 18:31:48 ت 27 جولائی 2021 [7224][1][FATAL] Subpanel definition should be an aSubPanel
+و 18:32:27 ت 27 جولائی 2021 [6496][1][FATAL] Failed to load original or custom subpanel data for wh_store_wh_supplychain in modules/wh_SupplyChain/metadata/subpanels/ForStore.php
+و 18:32:27 ت 27 جولائی 2021 [6496][1][FATAL] Failed to load original or custom subpanel data for wh_store_wh_supplychain in modules/wh_SupplyChain/metadata/subpanels/ForStore.php
+و 18:32:38 ت 27 جولائی 2021 [5395][1][FATAL] Failed to load original or custom subpanel data for wh_store_wh_supplychain in modules/wh_SupplyChain/metadata/subpanels/ForStore.php
+و 18:32:38 ت 27 جولائی 2021 [5395][1][FATAL] Failed to load original or custom subpanel data for wh_store_wh_supplychain in modules/wh_SupplyChain/metadata/subpanels/ForStore.php
+و 08:24:27 ت 28 جولائی 2021 [6065][1][FATAL] Bean file does not exist in path: modules/wh_Clients/wh_Clients.php
+و 08:24:27 ت 28 جولائی 2021 [6065][1][FATAL] Bean file does not exist in path: modules/wh_Clients/wh_Clients.php
+و 08:24:27 ت 28 جولائی 2021 [6065][1][FATAL] Bean file does not exist in path: modules/wh_Orders/wh_Orders.php
+و 08:24:27 ت 28 جولائی 2021 [6065][1][FATAL] Bean file does not exist in path: modules/wh_Orders/wh_Orders.php
+و 08:24:27 ت 28 جولائی 2021 [6065][1][FATAL] Bean file does not exist in path: modules/wh_Retailers/wh_Retailers.php
+و 08:24:27 ت 28 جولائی 2021 [6065][1][FATAL] Bean file does not exist in path: modules/wh_Retailers/wh_Retailers.php
+و 08:24:27 ت 28 جولائی 2021 [6065][1][FATAL] Bean file does not exist in path: modules/wh_Store/wh_Store.php
+و 08:24:27 ت 28 جولائی 2021 [6065][1][FATAL] Bean file does not exist in path: modules/wh_Store/wh_Store.php
+و 08:24:27 ت 28 جولائی 2021 [6065][1][FATAL] Bean file does not exist in path: modules/wh_SupplyChain/wh_SupplyChain.php
+و 08:24:27 ت 28 جولائی 2021 [6065][1][FATAL] Bean file does not exist in path: modules/wh_SupplyChain/wh_SupplyChain.php
+و 08:24:27 ت 28 جولائی 2021 [6065][1][FATAL] Bean file does not exist in path: modules/wh_Clients/wh_Clients.php
+و 08:24:27 ت 28 جولائی 2021 [6065][1][FATAL] Bean file does not exist in path: modules/wh_Orders/wh_Orders.php
+و 08:24:27 ت 28 جولائی 2021 [6065][1][FATAL] Bean file does not exist in path: modules/wh_Retailers/wh_Retailers.php
+و 08:24:27 ت 28 جولائی 2021 [6065][1][FATAL] Bean file does not exist in path: modules/wh_Store/wh_Store.php
+و 08:24:27 ت 28 جولائی 2021 [6065][1][FATAL] Bean file does not exist in path: modules/wh_SupplyChain/wh_SupplyChain.php
+و 09:20:27 ت 28 جولائی 2021 [5487][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 09:20:27 ت 28 جولائی 2021 [5487][1][FATAL] Exception in Controller: There is no action by that name: storeedit
+و 12:44:11 ت 28 جولائی 2021 [11889][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 12:44:11 ت 28 جولائی 2021 [11889][1][FATAL] Exception in Controller: There is no action by that name: supplychaincontactdetail
+و 12:52:00 ت 28 جولائی 2021 [15780][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 12:52:00 ت 28 جولائی 2021 [15780][1][FATAL] Exception in Controller: Error retrieving record. This record may be deleted or you may not be authorized to view it.
+و 19:10:37 ت 28 جولائی 2021 [4162][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 19:10:37 ت 28 جولائی 2021 [4162][1][FATAL] Exception in Controller: There is no action by that name: orderedit
+و 08:42:35 ت 29 جولائی 2021 [3499][1][FATAL] Email address save error
+و 08:43:54 ت 29 جولائی 2021 [2657][f157e58e-45cb-2dff-1bca-61024dddbe87][FATAL] Email address save error
+و 10:46:25 ت 29 جولائی 2021 [2486][1][FATAL] Mysqli_query failed.
+و 10:46:25 ت 29 جولائی 2021 [2486][1][FATAL] Executing repair query:  Query Failed: CREATE TABLE wh_supplychain (`id` char(36)  NOT NULL ,`name` varchar(255)  NULL ,`date_entered` datetime  NULL ,`date_modified` datetime  NULL ,`modified_user_id` char(36)  NULL ,`created_by` char(36)  NULL ,`description` text  NULL ,`deleted` bool  DEFAULT '0' NULL ,`assigned_user_id` char(36)  NULL ,`phone` varchar(255)  NULL ,`company_address_city` varchar(100)  NULL ,`company_address_state` varchar(100)  NULL ,`company_address_postalcode` varchar(20)  NULL ,`company_address_country` varchar(100)  NULL ,`company_address` varchar(255)  NULL  , PRIMARY KEY (id)) CHARACTER SET utf8 COLLATE utf8_general_ci: MySQL error 1050: Table 'wh_supplychain' already exists
+و 10:46:25 ت 29 جولائی 2021 [2486][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 10:46:25 ت 29 جولائی 2021 [2486][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 10:49:25 ت 29 جولائی 2021 [3134][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 10:49:25 ت 29 جولائی 2021 [3134][1][FATAL] Exception in Controller: 
+و 10:52:34 ت 29 جولائی 2021 [2487][-none-][FATAL] SECURITY: User authentication for bilalfarooq failed
+و 10:52:34 ت 29 جولائی 2021 [2487][-none-][FATAL] FAILED LOGIN:attempts[1], ip[127.0.0.1], username[bilalfarooq]
+و 10:52:37 ت 29 جولائی 2021 [2487][-none-][FATAL] SECURITY: User authentication for bilalfarooq failed
+و 10:52:37 ت 29 جولائی 2021 [2487][-none-][FATAL] FAILED LOGIN:attempts[1], ip[127.0.0.1], username[bilalfarooq]
+و 10:53:18 ت 29 جولائی 2021 [2489][1][FATAL] User update error: Temp User is not retrieved at ID 63681cbd-ea89-e030-5986-61026ceba6d7, boolean given
+و 10:53:18 ت 29 جولائی 2021 [2489][1][FATAL] Email address save error
+و 13:57:04 ت 29 جولائی 2021 [7090][1][FATAL] Email address save error
+و 14:04:41 ت 29 جولائی 2021 [5026][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:465 - styleChecked is not set
+و 14:10:15 ت 29 جولائی 2021 [2489][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+و 14:10:15 ت 29 جولائی 2021 [2489][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+و 14:13:19 ت 29 جولائی 2021 [5026][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+و 14:13:19 ت 29 جولائی 2021 [5026][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+و 14:17:18 ت 29 جولائی 2021 [9622][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+و 14:17:18 ت 29 جولائی 2021 [9622][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+و 14:17:27 ت 29 جولائی 2021 [5026][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+و 14:17:27 ت 29 جولائی 2021 [5026][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+و 12:59:07 ت 30 جولائی 2021 [10575][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+و 12:59:07 ت 30 جولائی 2021 [10575][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+و 09:07:29 ت 31 جولائی 2021 [3773][1][FATAL] Mysqli_query failed.
+و 09:07:29 ت 31 جولائی 2021 [3773][1][FATAL] Executing repair query:  Query Failed: ALTER TABLE project_contacts_1_c   add COLUMN `date_start` date  NULL ,  add COLUMN `date_end` date  NULL: MySQL error 1060: Duplicate column name 'date_start'
+و 09:07:29 ت 31 جولائی 2021 [3773][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 09:07:29 ت 31 جولائی 2021 [3773][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 09:07:47 ت 31 جولائی 2021 [3776][1][FATAL] Mysqli_query failed.
+و 09:07:47 ت 31 جولائی 2021 [3776][1][FATAL] Executing repair query:  Query Failed: ALTER TABLE project_contacts_1_c   add COLUMN `date_start` date  NULL ,  add COLUMN `date_end` date  NULL: MySQL error 1060: Duplicate column name 'date_start'
+و 09:07:47 ت 31 جولائی 2021 [3776][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 09:07:47 ت 31 جولائی 2021 [3776][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 09:08:21 ت 31 جولائی 2021 [3426][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 09:08:21 ت 31 جولائی 2021 [3426][1][FATAL] Exception in Controller: 
+و 09:41:45 ت 31 جولائی 2021 [3775][1][FATAL] Mysqli_query failed.
+و 09:41:45 ت 31 جولائی 2021 [3775][1][FATAL] Executing repair query:  Query Failed: ALTER TABLE projects_contacts   add COLUMN `date_start` date  NULL ,  add COLUMN `date_end` date  NULL: MySQL error 1060: Duplicate column name 'date_start'
+و 09:41:45 ت 31 جولائی 2021 [3775][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 09:41:45 ت 31 جولائی 2021 [3775][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 13:33:58 ت 31 جولائی 2021 [9920][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 13:33:58 ت 31 جولائی 2021 [9920][1][FATAL] Exception in Controller: Subpanel was not defined
+و 15:13:57 ت 31 جولائی 2021 [6364][1][FATAL] Mysqli_query failed.
+و 15:13:57 ت 31 جولائی 2021 [6364][1][FATAL]  Query Failed: SELECT sp_deals.id, sp_deals.deleted FROM sp_dealsWHERE sp_deals.supplier_id='' AND sp_deals.retailer.id='' AND sp_deals.deleted=0;: MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.supplier_id='' AND sp_deals.retailer.id='' AND sp_deals.deleted=0' at line 1
+و 15:16:19 ت 31 جولائی 2021 [9920][1][FATAL] Mysqli_query failed.
+و 15:16:19 ت 31 جولائی 2021 [9920][1][FATAL]  Query Failed: SELECT sp_deals.id, sp_deals.deleted FROM sp_dealsWHERE sp_deals.supplier_id='54050516-7ebb-f98a-abba-610535e72017' AND sp_deals.retailer.id='887d68cb-8cd9-ad2c-ef99-61053a665e88' AND sp_deals.deleted=0;: MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.supplier_id='54050516-7ebb-f98a-abba-610535e72017' AND sp_deals.retailer.id=...' at line 1
+و 09:17:37 ت 31 جولائی 2021 [15841][1][FATAL] Mysqli_query failed.
+و 09:17:37 ت 31 جولائی 2021 [15841][1][FATAL]  Query Failed: SELECT sp_deals.id, sp_deals.deleted FROM sp_dealsWHERE sp_deals.supplier_id='54050516-7ebb-f98a-abba-610535e72017' AND sp_deals.retailer.id='887d68cb-8cd9-ad2c-ef99-61053a665e88' AND sp_deals.deleted=0;: MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.supplier_id='54050516-7ebb-f98a-abba-610535e72017' AND sp_deals.retailer.id=...' at line 1
+و 15:19:53 ت 31 جولائی 2021 [9920][1][FATAL] Mysqli_query failed.
+و 15:19:53 ت 31 جولائی 2021 [9920][1][FATAL]  Query Failed: SELECT sp_deals.id, sp_deals.deleted FROM sp_deals WHERE sp_deals.supplier_id='54050516-7ebb-f98a-abba-610535e72017' AND sp_deals.retailer.id='887d68cb-8cd9-ad2c-ef99-61053a665e88' AND sp_deals.deleted=0;: MySQL error 1054: Unknown column 'sp_deals.retailer.id' in 'where clause'
+و 19:15:44 ت 31 جولائی 2021 [15841][1][FATAL] Error: Module Deals does not exist.
+و 07:35:04 ت 01 اگست 2021 [6168][1][FATAL] Mysqli_query failed.
+و 07:35:04 ت 01 اگست 2021 [6168][1][FATAL] Executing repair query:  Query Failed: ALTER TABLE accounts_contacts   add COLUMN `company` varchar(255)  NULL: MySQL error 1060: Duplicate column name 'company'
+و 07:35:04 ت 01 اگست 2021 [6168][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 07:35:04 ت 01 اگست 2021 [6168][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 07:59:10 ت 01 اگست 2021 [2649][1][FATAL] Mysqli_query failed.
+و 07:59:10 ت 01 اگست 2021 [2649][1][FATAL]  Query Failed: SELECT accounts_contacts.company, accounts_contacts.deleted FROM accounts_contacts WHERE accounts_contacts.account_id='acc956fc-3a8f-b66a-5a91-6102671b8868' AND accounts_contacts.contact_id='3c1019f3-f5e7-99c8-89af-61062e14e0ab' AND accounts_contacts.delete d=0;: MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'd=0' at line 1
+و 07:59:26 ت 01 اگست 2021 [3427][1][FATAL] Mysqli_query failed.
+و 07:59:26 ت 01 اگست 2021 [3427][1][FATAL]  Query Failed: SELECT accounts_contacts.company, accounts_contacts.deleted FROM accounts_contacts WHERE accounts_contacts.account_id='acc956fc-3a8f-b66a-5a91-6102671b8868' AND accounts_contacts.contact_id='3c1019f3-f5e7-99c8-89af-61062e14e0ab' AND accounts_contacts.delete d=0;: MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'd=0' at line 1
+و 08:00:01 ت 01 اگست 2021 [2659][1][FATAL] Mysqli_query failed.
+و 08:00:01 ت 01 اگست 2021 [2659][1][FATAL]  Query Failed: SELECT accounts_contacts.company, accounts_contacts.deleted FROM accounts_contacts WHERE accounts_contacts.account_id='acc956fc-3a8f-b66a-5a91-6102671b8868' AND accounts_contacts.contact_id='3c1019f3-f5e7-99c8-89af-61062e14e0ab' AND accounts_contacts.delete d=0;: MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'd=0' at line 1
+و 02:02:06 ت 01 اگست 2021 [2659][1][FATAL] Mysqli_query failed.
+و 02:02:06 ت 01 اگست 2021 [2659][1][FATAL]  Query Failed: SELECT accounts_contacts.company, accounts_contacts.deleted FROM accounts_contacts WHERE accounts_contacts.account_id='acc956fc-3a8f-b66a-5a91-6102671b8868' AND accounts_contacts.contact_id='3c1019f3-f5e7-99c8-89af-61062e14e0ab' AND accounts_contacts.delete d=0;: MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'd=0' at line 1
+و 11:58:49 ت 01 اگست 2021 [2658][1][FATAL] Mysqli_query failed.
+و 11:58:49 ت 01 اگست 2021 [2658][1][FATAL] Executing repair query:  Query Failed: ALTER TABLE accounts_contacts   add COLUMN `company` varchar(255)  NULL: MySQL error 1060: Duplicate column name 'company'
+و 11:58:49 ت 01 اگست 2021 [2658][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 11:58:49 ت 01 اگست 2021 [2658][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 12:00:08 ت 01 اگست 2021 [2659][1][FATAL] Mysqli_query failed.
+و 12:00:08 ت 01 اگست 2021 [2659][1][FATAL] Executing repair query:  Query Failed: ALTER TABLE accounts_contacts   add COLUMN `company` varchar(255)  NULL: MySQL error 1060: Duplicate column name 'company'
+و 12:00:08 ت 01 اگست 2021 [2659][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 12:00:08 ت 01 اگست 2021 [2659][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 12:01:41 ت 01 اگست 2021 [3630][1][FATAL] Mysqli_query failed.
+و 12:01:41 ت 01 اگست 2021 [3630][1][FATAL] Executing repair query:  Query Failed: ALTER TABLE accounts_contacts   add COLUMN `company` varchar(255)  NULL: MySQL error 1060: Duplicate column name 'company'
+و 12:01:41 ت 01 اگست 2021 [3630][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 12:01:41 ت 01 اگست 2021 [3630][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 12:03:25 ت 01 اگست 2021 [3427][1][FATAL] Mysqli_query failed.
+و 12:03:25 ت 01 اگست 2021 [3427][1][FATAL] Executing repair query:  Query Failed: ALTER TABLE accounts_contacts   add COLUMN `company` varchar(255)  NULL: MySQL error 1060: Duplicate column name 'company'
+و 12:03:25 ت 01 اگست 2021 [3427][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 12:03:25 ت 01 اگست 2021 [3427][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 12:03:38 ت 01 اگست 2021 [2653][1][FATAL] Mysqli_query failed.
+و 12:03:38 ت 01 اگست 2021 [2653][1][FATAL] Executing repair query:  Query Failed: ALTER TABLE accounts_contacts   add COLUMN `company` varchar(255)  NULL: MySQL error 1060: Duplicate column name 'company'
+و 12:03:38 ت 01 اگست 2021 [2653][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 12:03:38 ت 01 اگست 2021 [2653][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 12:03:53 ت 01 اگست 2021 [6168][1][FATAL] Mysqli_query failed.
+و 12:03:53 ت 01 اگست 2021 [6168][1][FATAL] Executing repair query:  Query Failed: ALTER TABLE accounts_contacts   add COLUMN `company` varchar(255)  NULL: MySQL error 1060: Duplicate column name 'company'
+و 12:03:53 ت 01 اگست 2021 [6168][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 12:03:53 ت 01 اگست 2021 [6168][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 12:04:31 ت 01 اگست 2021 [3427][1][FATAL] Mysqli_query failed.
+و 12:04:31 ت 01 اگست 2021 [3427][1][FATAL] Executing repair query:  Query Failed: ALTER TABLE accounts_contacts   add COLUMN `company` varchar(255)  NULL: MySQL error 1060: Duplicate column name 'company'
+و 12:04:31 ت 01 اگست 2021 [3427][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 12:04:31 ت 01 اگست 2021 [3427][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 12:04:38 ت 01 اگست 2021 [2649][1][FATAL] Mysqli_query failed.
+و 12:04:38 ت 01 اگست 2021 [2649][1][FATAL] Executing repair query:  Query Failed: ALTER TABLE accounts_contacts   add COLUMN `company` varchar(255)  NULL: MySQL error 1060: Duplicate column name 'company'
+و 12:04:38 ت 01 اگست 2021 [2649][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 12:04:38 ت 01 اگست 2021 [2649][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 12:04:45 ت 01 اگست 2021 [2649][1][FATAL] Mysqli_query failed.
+و 12:04:45 ت 01 اگست 2021 [2649][1][FATAL] Executing repair query:  Query Failed: ALTER TABLE accounts_contacts   add COLUMN `company` varchar(255)  NULL: MySQL error 1060: Duplicate column name 'company'
+و 12:04:45 ت 01 اگست 2021 [2649][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 12:04:45 ت 01 اگست 2021 [2649][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 12:05:11 ت 01 اگست 2021 [2659][1][FATAL] Mysqli_query failed.
+و 12:05:11 ت 01 اگست 2021 [2659][1][FATAL] Executing repair query:  Query Failed: ALTER TABLE accounts_contacts   add COLUMN `company` varchar(255)  NULL: MySQL error 1060: Duplicate column name 'company'
+و 12:05:11 ت 01 اگست 2021 [2659][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 12:05:11 ت 01 اگست 2021 [2659][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 12:05:22 ت 01 اگست 2021 [6168][1][FATAL] Mysqli_query failed.
+و 12:05:22 ت 01 اگست 2021 [6168][1][FATAL] Executing repair query:  Query Failed: ALTER TABLE accounts_contacts   add COLUMN `company` varchar(255)  NULL: MySQL error 1060: Duplicate column name 'company'
+و 12:05:22 ت 01 اگست 2021 [6168][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 12:05:22 ت 01 اگست 2021 [6168][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 07:17:37 ت 01 اگست 2021 [2659][1][FATAL] Mysqli_query failed.
+و 07:17:37 ت 01 اگست 2021 [2659][1][FATAL] Error updating table: accounts_contacts: Query Failed: UPDATE accounts_contacts
+					SET `contact_id`='3c1019f3-f5e7-99c8-89af-61062e14e0ab',`opportunity_id`='acc956fc-3a8f-b66a-5a91-6102671b8868',`contact_role`='Radeon',`date_modified`='2021-08-01 11:17:37'
+					 WHERE  accounts_contacts.id = '8b6a0b99-8e03-fd4e-86ea-610637ac461b' AND deleted=0: MySQL error 1054: Unknown column 'opportunity_id' in 'field list'
+و 07:17:37 ت 01 اگست 2021 [2659][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 07:17:37 ت 01 اگست 2021 [2659][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 07:20:19 ت 01 اگست 2021 [6168][1][FATAL] Mysqli_query failed.
+و 07:20:19 ت 01 اگست 2021 [6168][1][FATAL] Error updating table: accounts_contacts: Query Failed: UPDATE accounts_contacts
+					SET `contact_id`='3c1019f3-f5e7-99c8-89af-61062e14e0ab',`opportunity_id`='acc956fc-3a8f-b66a-5a91-6102671b8868',`contact_role`=' Electronics',`date_modified`='2021-08-01 11:20:19'
+					 WHERE  accounts_contacts.id = '8b6a0b99-8e03-fd4e-86ea-610637ac461b' AND deleted=0: MySQL error 1054: Unknown column 'opportunity_id' in 'field list'
+و 07:20:19 ت 01 اگست 2021 [6168][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 07:20:19 ت 01 اگست 2021 [6168][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 07:22:32 ت 01 اگست 2021 [6168][1][FATAL] Mysqli_query failed.
+و 07:22:32 ت 01 اگست 2021 [6168][1][FATAL] Error updating table: accounts_contacts: Query Failed: UPDATE accounts_contacts
+					SET `contact_id`='3c1019f3-f5e7-99c8-89af-61062e14e0ab',`opportunity_id`='acc956fc-3a8f-b66a-5a91-6102671b8868',`contact_role`='aaa',`date_modified`='2021-08-01 11:22:32'
+					 WHERE  accounts_contacts.id = '8b6a0b99-8e03-fd4e-86ea-610637ac461b' AND deleted=0: MySQL error 1054: Unknown column 'opportunity_id' in 'field list'
+و 07:22:32 ت 01 اگست 2021 [6168][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 07:22:32 ت 01 اگست 2021 [6168][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 07:23:25 ت 01 اگست 2021 [3460][1][FATAL] Mysqli_query failed.
+و 07:23:25 ت 01 اگست 2021 [3460][1][FATAL] Error updating table: accounts_contacts: Query Failed: UPDATE accounts_contacts
+					SET `contact_id`='3c1019f3-f5e7-99c8-89af-61062e14e0ab',`opportunity_id`='acc956fc-3a8f-b66a-5a91-6102671b8868',`contact_role`='Radeon Electronics',`date_modified`='2021-08-01 11:23:25'
+					 WHERE  accounts_contacts.id = '8b6a0b99-8e03-fd4e-86ea-610637ac461b' AND deleted=0: MySQL error 1054: Unknown column 'opportunity_id' in 'field list'
+و 07:23:25 ت 01 اگست 2021 [3460][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 07:23:25 ت 01 اگست 2021 [3460][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 07:23:38 ت 01 اگست 2021 [2653][1][FATAL] Mysqli_query failed.
+و 07:23:38 ت 01 اگست 2021 [2653][1][FATAL] Error updating table: accounts_contacts: Query Failed: UPDATE accounts_contacts
+					SET `contact_id`='3c1019f3-f5e7-99c8-89af-61062e14e0ab',`opportunity_id`='acc956fc-3a8f-b66a-5a91-6102671b8868',`contact_role`='Radeon Electronics',`date_modified`='2021-08-01 11:23:38'
+					 WHERE  accounts_contacts.id = '8b6a0b99-8e03-fd4e-86ea-610637ac461b' AND deleted=0: MySQL error 1054: Unknown column 'opportunity_id' in 'field list'
+و 07:23:38 ت 01 اگست 2021 [2653][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 07:23:38 ت 01 اگست 2021 [2653][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 07:24:05 ت 01 اگست 2021 [2658][1][FATAL] Mysqli_query failed.
+و 07:24:05 ت 01 اگست 2021 [2658][1][FATAL] Error updating table: accounts_contacts: Query Failed: UPDATE accounts_contacts
+					SET `contact_id`='3c1019f3-f5e7-99c8-89af-61062e14e0ab',`opportunity_id`='acc956fc-3a8f-b66a-5a91-6102671b8868',`contact_role`='Radeon Electronics',`date_modified`='2021-08-01 11:24:05'
+					 WHERE  accounts_contacts.id = '8b6a0b99-8e03-fd4e-86ea-610637ac461b' AND deleted=0: MySQL error 1054: Unknown column 'opportunity_id' in 'field list'
+و 07:24:05 ت 01 اگست 2021 [2658][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 07:24:05 ت 01 اگست 2021 [2658][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 07:24:28 ت 01 اگست 2021 [14453][1][FATAL] Mysqli_query failed.
+و 07:24:28 ت 01 اگست 2021 [14453][1][FATAL] Error updating table: accounts_contacts: Query Failed: UPDATE accounts_contacts
+					SET `contact_id`='3c1019f3-f5e7-99c8-89af-61062e14e0ab',`opportunity_id`='acc956fc-3a8f-b66a-5a91-6102671b8868',`contact_role`='Radeon Electronics',`date_modified`='2021-08-01 11:24:28'
+					 WHERE  accounts_contacts.id = '8b6a0b99-8e03-fd4e-86ea-610637ac461b' AND deleted=0: MySQL error 1054: Unknown column 'opportunity_id' in 'field list'
+و 07:24:28 ت 01 اگست 2021 [14453][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 07:24:28 ت 01 اگست 2021 [14453][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+و 07:24:41 ت 01 اگست 2021 [14497][1][FATAL] Mysqli_query failed.
+و 07:24:41 ت 01 اگست 2021 [14497][1][FATAL] Error updating table: accounts_contacts: Query Failed: UPDATE accounts_contacts
+					SET `contact_id`='3c1019f3-f5e7-99c8-89af-61062e14e0ab',`opportunity_id`='acc956fc-3a8f-b66a-5a91-6102671b8868',`contact_role`='Radeon Electronics',`date_modified`='2021-08-01 11:24:40'
+					 WHERE  accounts_contacts.id = '8b6a0b99-8e03-fd4e-86ea-610637ac461b' AND deleted=0: MySQL error 1054: Unknown column 'opportunity_id' in 'field list'
+و 07:24:41 ت 01 اگست 2021 [14497][1][FATAL] Exception handling in /opt/lampp/htdocs/SuiteCRM/include/MVC/Controller/SugarController.php:409
+و 07:24:41 ت 01 اگست 2021 [14497][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
